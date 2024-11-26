@@ -142,7 +142,8 @@ Please organize and complete the following deliverables within this repository:
 ### 3. **Live Application URL**
 
 -   Deploy your application to a platform like Vercel, Netlify, or AWS.
--   **Link to Live App**: https://tractor.afyanova.africa/
+-   **Link to Live App**: https://tractor.afyanova.africa/.
+-   Credentials
     Email:elvisogunga@gmail.com
     Password:123456
 

@@ -112,12 +112,10 @@
                                         </svg>
                                     </button>
                                     <img loading="lazy" class="compare-listing-img" alt="image"
-                                        src="/assets/images/dashboard/compare1.jpg">
+                                        src="https://tractor.afyanova.africa/8020611732640933.webp">
                                     <div class="content">
                                         <h3 class="tfcl-listing-title title">
-                                            <a title="Leslie Alexander"
-                                                href="https://autodealwp.themesflat.co/listing/dongfeng-aeolus-yixuan-mach/">2017
-                                                BMV X1 xDrive 20d xline</a>
+                                            <a title="Leslie Alexander" href="#">Tractor 1</a>
                                         </h3>
                                         <ul class="description">
                                             <li class="mileage"><i class="icon-autodeal-km1"></i> 72,491 kms</li>
@@ -135,13 +133,10 @@
                                         </svg>
                                     </button>
                                     <img loading="lazy" class="compare-listing-img" alt="image"
-                                        src="/assets/images/dashboard/compare2.jpg">
+                                        src="https://tractor.afyanova.africa/7290981732202754.jpg">
                                     <div class="content">
                                         <h3 class="tfcl-listing-title title">
-                                            <a title="Leslie Alexander"
-                                                href="https://autodealwp.themesflat.co/listing/toyota-camry-2025/">2017
-                                                BMV X1
-                                                xDrive 20d xline</a>
+                                            <a title="Leslie Alexander" href="#">Tactor 2</a>
                                         </h3>
                                         <ul class="description">
                                             <li class="mileage"><i class="icon-autodeal-km1"></i> 72,491 kms</li>
@@ -151,7 +146,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <a href="compare.html" class="button tfcl-compare-listing-button">Compare</a>
+                            <a href="#" class="button tfcl-compare-listing-button">Compare</a>
                         </div>
                     </div>
 
