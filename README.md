@@ -161,7 +161,7 @@ Complete this section in a separate ReadMe file `report.md`:
 -   **Team Members**: Elvis Ogunga
 -   **Tech Stack**: Lamp (Laravel),Node js and Flutter(Not Uploaded)
 -   **Key Features**: Register/Login,Listing posting, Seller/User Dashboard,Messaging & Filtering
--   **Challenges**: Duration and Finding team members, Admin Dashboard was not built
+-   **Challenges**: Duration and Finding team members, Admin Dashboard was not built,Was not able to add technician area
 -   **Lessons Learned**: Efficiently Doing chats With firebase real time Database
 
 ---
