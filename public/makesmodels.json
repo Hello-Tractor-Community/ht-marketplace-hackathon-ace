@@ -1,0 +1,102 @@
+[
+    {
+        "make": "John Deere",
+        "models": [
+            "1025R Compact Utility",
+            "5065E Utility Tractor",
+            "8R 410 Row-Crop Tractor",
+            "6120M Utility Tractor",
+            "9570RX Scraper Tractor"
+        ]
+    },
+    {
+        "make": "Massey Ferguson",
+        "models": [
+            "MF 1840 Round Baler",
+            "MF 4700 Global Series",
+            "MF 6713S High-Horsepower",
+            "MF 7720S Row-Crop",
+            "MF 8700 S Series"
+        ]
+    },
+    {
+        "make": "Kubota",
+        "models": [
+            "BX23S Sub-Compact Tractor",
+            "L3901 Compact Tractor",
+            "M7-2 Series",
+            "LX3310 Compact Utility",
+            "GR2120 Garden Tractor"
+        ]
+    },
+    {
+        "make": "New Holland",
+        "models": [
+            "Workmaster 25 Compact",
+            "T4 Utility Series",
+            "T7 Heavy Duty",
+            "T8 Genesis Series",
+            "Boomer 50 Compact Tractor"
+        ]
+    },
+    {
+        "make": "Case IH",
+        "models": [
+            "Farmall 55A",
+            "Maxxum 150",
+            "Puma 240",
+            "Magnum 380 CVXDrive",
+            "Steiger Quadtrac 620"
+        ]
+    },
+    {
+        "make": "Mahindra",
+        "models": [
+            "Emax 20S Sub-Compact",
+            "1626 Compact Tractor",
+            "4540 4WD Utility",
+            "6075 4WD Cab Tractor",
+            "9000 Series"
+        ]
+    },
+    {
+        "make": "Caterpillar",
+        "models": [
+            "D6T Track-Type Tractor",
+            "D8T Dozer",
+            "D5 Next Gen Dozer",
+            "D11T Crawler Tractor",
+            "D3 Small Dozer"
+        ]
+    },
+    {
+        "make": "Fendt",
+        "models": [
+            "Fendt 200 Vario",
+            "Fendt 700 Vario",
+            "Fendt 900 Gen 7",
+            "Fendt 1000 Vario",
+            "Fendt e100 Vario (Electric)"
+        ]
+    },
+    {
+        "make": "Claas",
+        "models": [
+            "Axion 800 Series",
+            "Arion 600 Series",
+            "Xerion 5000 Trac VC",
+            "Nexos VE/VL/VF Orchard Tractor",
+            "Elios 200"
+        ]
+    },
+    {
+        "make": "Yanmar",
+        "models": [
+            "SA221 Compact Tractor",
+            "YT235 Premium Tractor",
+            "SA424DHX-TL",
+            "YT347C Compact Tractor",
+            "F90 Series Crawler Tractor"
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app-CrG75o6_.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/firebase.js": {
+    "file": "assets/firebase-BObQOc37.js",
+    "name": "firebase",
+    "src": "resources/js/firebase.js",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-BaVMVknW.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}

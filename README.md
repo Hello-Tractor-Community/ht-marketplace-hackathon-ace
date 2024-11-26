@@ -1,66 +1,91 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xoeTal9p)
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+# **Hello Tractor E-commerce Hackathon 🚜**
 
-## About Laravel
+Welcome to the Hello Tractor E-commerce Hackathon! This repository is your central workspace for the challenge. Follow the structure below to organize and present your deliverables. Let’s innovate for Africa’s agricultural future!
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## **Hackathon Overview 🌍**
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### **Objective**
 
-## Learning Laravel
+Design and develop a secondary marketplace e-commerce platform for buying and selling second-hand tractors, agri-implements, and connecting with certified tractor operators.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+### **Key Features to Implement**
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+-   **Homepage**: User-friendly showcase of featured listings with filters (price, location, brand).
+-   **User Registration**: Secure registration with email, phone, and social media verification.
+-   **Tractor Listings**: Create detailed listings with photos, specifications, history, and price.
+-   **Search & Filters**: Enable filtering by make, model, price, and location.
+-   **Messaging System**: Facilitate direct communication between buyers and sellers.
+-   **Seller Dashboard**: Track listing performance, inquiries, and sales.
+-   **Admin Panel**: Manage listings, approve content, and ensure platform quality.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### **Add-On Features**
 
-## Laravel Sponsors
+-   **Dealer Listings**: Highlight parts and equipment suppliers.
+-   **Certified Tractor Operators**: Connect tractor owners with trained operators.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+---
 
-### Premium Partners
+## **Deliverables Checklist ✅**
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+Please organize and complete the following deliverables within this repository:
 
-## Contributing
+### 1. **Codebase**
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+-   Ensure all code is well-structured and documented.
+-   Use folders for modularity and clarity. Include any configuration or setup files.
 
-## Code of Conduct
+### 2. **Demo Video**
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+-   Upload your video to YouTube, Vimeo, or as an mp4 file.
+-   **Link to Demo Video**: https://tractor.afyanova.africa/
 
-## Security Vulnerabilities
+### 3. **Live Application URL**
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+-   Deploy your application to a platform like Vercel, Netlify, or AWS.
+-   **Link to Live App**: [Insert live application URL here]
 
-## License
+### 4. **Technical Documentation**
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+-   Include setup instructions for running the project locally.
+-   Provide any architecture diagrams or flowcharts explaining the design.
+-   **Documentation**: Add details in a `docs/` folder or link to relevant markdown files.
+
+### 5. **Project Report**
+
+Complete this section in a separate ReadMe file `report.md`:
+
+-   **Project Name**: Ace Variant
+-   **Team Members**: Elvis Ogunga
+-   **Tech Stack**: Lamp (Laravel),Node js and Flutter(Not Uploaded)
+-   **Key Features**: Register/Login,Listing posting, Seller/User Dashboard,Messaging & Filtering
+-   **Challenges**: Duration and Finding team members
+-   **Lessons Learned**: Efficiently Doing chats With firebase real time Database
+
+---
+
+## **Submission Process 📥**
+
+1. Complete your project and ensure all deliverables are present in this repository.
+2. **Submission Deadline**: All submissions must be finalized by **Tuesday, Nov 26th, 11:59 EAT**.
+3. Submit your repository by ensuring all deliverables are present in this repository and locked by the deadline.
+
+---
+
+## **Important Links 🔗**
+
+-   [Hackathon Website](https://tractor.afyanova.africa/)
+-   [Hello Tractor Main Site](https://hellotractor.com)
+
+---
+
+## **+254723165900 📞**
+
+For any questions, reach out via Discord. Mentors will host office hours to assist with challenges and technical support.
+
+---
+
+**Good luck and happy hacking!** 🚀
