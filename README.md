@@ -41,7 +41,7 @@ Please organize and complete the following deliverables within this repository:
 ### 2. **Demo Video**
 
 -   Upload your video to YouTube, Vimeo, or as an mp4 file.
--   **Link to Demo Video**: https://tractor.afyanova.africa/
+-   **Link to Demo Video**: https://youtu.be/haI_csUa9E4
 
 ### 3. **Live Application URL**
 
